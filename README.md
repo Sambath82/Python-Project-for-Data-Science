@@ -20,7 +20,7 @@ Tesla            |  GameStop
 ![Tesla_Stock](https://github.com/user-attachments/assets/35c35fa4-31a8-4371-a463-058eef100173)  |  ![GameStop_Stock](https://github.com/user-attachments/assets/07e8629a-3e26-41a7-ad53-c9789b83fad7)
 
 ## Here's a Fun Fact:🦢
-Did you know that Python programmers and swans have something in common? Just like a swan gliding effortlessly on the water while furiously paddling underneath, a Python programmer might look calm and collected on the outside—but behind the scenes, they’re frantically debugging, searching Stack Overflow, and praying their code doesn’t break after one more import statement.
+Did you know that Python programmers and swans have something in common? Just like a swan gliding effortlessly on the water while furiously paddling underneath, a Python programmer might look calm and collected on the outside—but behind the scenes, they’re frantically debugging, searching Stack Overflow, and praying their code doesn’t break after one more `import` statement.
 
 So, next time you see a swan, remember: that serene look? Pure deception!
 
