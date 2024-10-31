@@ -2,7 +2,7 @@
 
 ## Summary: 
 
-This project is part of the IBM course *Python Project for Data Science*. It is designed to help us apply and expand the foundational Python skills we learned in *Python for Data Science, AI & Development*. The focus is on data extraction and web scraping, using the `yfinance` and `BeautifulSoup` packages. Through the project, we can analyze historical stock price and revenue data, and create a dashboard. In doing so, we get to put our knowledge to use and move closer to real-world project experience!
+This project is part of the IBM *Data Analyst* course. It is designed to help us apply and expand the foundational Python skills we learned in *Python for Data Science, AI & Development*. The focus is on data extraction and web scraping, using the `yfinance` and `BeautifulSoup` packages. Through the project, we can analyze the historical stock price and revenue data, identify patterns and trends, and create a dashboard. In doing so, we get to put our knowledge to use and move closer to real-world project experience!
 
 ## Objective:
 
