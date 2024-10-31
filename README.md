@@ -15,7 +15,7 @@ This project is part of the IBM course *Python Project for Data Science*. It's d
 
 
 
-Tesla Historical Stock Data and Revenue             |  GameStop Historical Stock Data and Revenue
+Tesla            |  GameStop 
 :-------------------------:|:-------------------------:
 ![Tesla_Stock](https://github.com/user-attachments/assets/35c35fa4-31a8-4371-a463-058eef100173)  |  ![GameStop_Stock](https://github.com/user-attachments/assets/07e8629a-3e26-41a7-ad53-c9789b83fad7)
 
