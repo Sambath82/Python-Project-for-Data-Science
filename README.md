@@ -13,4 +13,4 @@ This project is part of the IBM course *Python Project for Data Science*. It's d
 
 ## Stock Graph:
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]
+![Tesla_Stock](https://github.com/user-attachments/assets/9b36a623-cb9b-4a2e-ae48-7dd763cd480e)
