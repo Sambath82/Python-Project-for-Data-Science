@@ -16,7 +16,7 @@ This project is part of the IBM course *Python Project for Data Science*. It's d
 ![Tesla_Stock](https://github.com/user-attachments/assets/9b36a623-cb9b-4a2e-ae48-7dd763cd480e) ![GameStop_Stock](https://github.com/user-attachments/assets/48eb8a39-0437-48e5-95ea-63e1bfd19c28)
 
 
-Solarized dark             |  Solarized Ocean
+Tesla Historical Stock Data and Revenue             |  GameStop Historical Stock Data and Revenue
 :-------------------------:|:-------------------------:
 ![Tesla_Stock](https://github.com/user-attachments/assets/9b36a623-cb9b-4a2e-ae48-7dd763cd480e)  |  ![GameStop_Stock](https://github.com/user-attachments/assets/48eb8a39-0437-48e5-95ea-63e1bfd19c28)
 
