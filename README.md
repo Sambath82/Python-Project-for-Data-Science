@@ -13,12 +13,11 @@ This project is part of the IBM course *Python Project for Data Science*. It's d
 
 ## Stock Graph:
 
-![Tesla_Stock](https://github.com/user-attachments/assets/9b36a623-cb9b-4a2e-ae48-7dd763cd480e) ![GameStop_Stock](https://github.com/user-attachments/assets/48eb8a39-0437-48e5-95ea-63e1bfd19c28)
 
 
 Tesla Historical Stock Data and Revenue             |  GameStop Historical Stock Data and Revenue
 :-------------------------:|:-------------------------:
-![Tesla_Stock](https://github.com/user-attachments/assets/9b36a623-cb9b-4a2e-ae48-7dd763cd480e)  |  ![GameStop_Stock](https://github.com/user-attachments/assets/48eb8a39-0437-48e5-95ea-63e1bfd19c28)
+![Tesla_Stock](https://github.com/user-attachments/assets/35c35fa4-31a8-4371-a463-058eef100173)  |  ![GameStop_Stock](https://github.com/user-attachments/assets/48eb8a39-0437-48e5-95ea-63e1bfd19c28)
 
 
 <img src="https://openclipart.org/image/2400px/svg_to_png/28580/kablam-Number-Animals-1.png" width="200"/> <img src="https://openclipart.org/download/71101/two.svg" width="300"/>
