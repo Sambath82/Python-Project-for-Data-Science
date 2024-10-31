@@ -10,3 +10,7 @@ This project is part of the IBM course *Python Project for Data Science*. It's d
    - Using the `yfinance` library
    - Web scraping with the `BeautifulSoup` library
 2. Create and display a visually appealing graph
+
+## Stock Graph:
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]
